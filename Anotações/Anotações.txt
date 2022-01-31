@@ -1,1 +1,44 @@
+                 - Passo a passo para subir o seu repositório no GitHub! -
+      
 
+1 - Tenha certeza que o seu git está instalado. No terminal ou prompt de comando cheque através do comando 
+
+  git -v
+  
+  Se não, acesse o link: https://git-scm.com/downloads
+
+2 - No GitHub, crie um novo repositório. Na tela onde pede para fazer upload ou criar aquivos, copie o link HTTPS que será gerado.
+
+  Código -> clone -> HTTPS
+
+3 - Abra o Git Bash ou terminal no Linux na pasta onde está o seu projeto
+
+Botão direito -> Abrir Git Bash ou Terminal
+
+4 - Inicie a pasta como um repositório do Git através do comando:
+
+  git init
+
+5 - Em seguida, adicione os arquivos de configuração para preparar o commit:
+
+  git add .
+
+6 - Opcional: Adicione um arquivo readme caso não tenha iniciado o repositório com ele:
+
+  git add README.md
+
+7 - Crie um novo commit para os arquivos que irá subir para o repositório:
+
+  git commit -m "mensagem"
+
+8 - Suba seus arquivos utilizando a URL gerada no passo 2 no seguinte comando:
+
+  git remote add origin URL-GERADA-PELO-PASSO-2-AQUI
+
+9 - Autorize o upload com seu login e senha:
+
+  git push -u origin master (dependendo do branch, no lugar de "master" é main)
+  
+Observação: Analisar a forma de autenticação se for Tokens de Acesso, SSH e chaves GPG e outros.   
+
+Fontes: https://dev.to/alanfabricio/subindo-seu-repositorio-no-github-atraves-da-linha-de-comando-3kcm . Acesso em: 31 de janeiro de 2022.
