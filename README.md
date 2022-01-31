@@ -4,11 +4,15 @@ Descrição do Desafio Reforce seu conhecimento em Git com um desafio de projeto
 ## Informações para subir o seu repositório no ***GitHub*** está no arquivo ***"Anotações"*** na pasta Anotações!
 
 ### Links importantes:
-[Git:](https://git-scm.com/downloads)
+[Sobre o Git](https://git-scm.com/about)
 
-[GitHub:](https://github.com/)
+[Git Downloads](https://git-scm.com/downloads)
 
-[Sintaxe Básica MarkDown:] https://www.markdownguide.org/basic-syntax/
+[GitHub](https://github.com/)
 
-:bust_in_silhouette: :rocket:
-Seja protagonista da sua vida atualizando o seu GitHub!
+[Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
+
+
+
+:bust_in_silhouette:
+Seja protagonista da sua vida atualizando o seu GitHub!  :rocket:

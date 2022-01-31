@@ -41,4 +41,6 @@ Botão direito -> Abrir Git Bash ou Terminal
   
 Observação: Analisar a forma de autenticação se for Tokens de Acesso, SSH e chaves GPG e outros.   
 
+Usei autenticação por por Tokens de Acesso.
+
 Fontes: https://dev.to/alanfabricio/subindo-seu-repositorio-no-github-atraves-da-linha-de-comando-3kcm . Acesso em: 31 de janeiro de 2022.
